@@ -1,0 +1,10 @@
+{
+  "dataset": {
+    "id": "typhoon-ai/thai-dialect-isan-dataset",
+    "revision": "dfc7e495b3069940880d184f0acfcc6b3cd4f364"
+  },
+  "models": {
+    "wav2vec2": "airesearch/wav2vec2-large-xlsr-53-th",
+    "normalizer": "google/byt5-small"
+  }
+}
