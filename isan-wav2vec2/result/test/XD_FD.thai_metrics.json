@@ -1,0 +1,7 @@
+{
+  "examples": 491,
+  "cer_original_text": 0.09366019886580373,
+  "wer_space_delimited": 0.8125404007756949,
+  "wer_pythainlp_newmm": 0.21248815415394334,
+  "tokenizer": "PyThaiNLP newmm"
+}

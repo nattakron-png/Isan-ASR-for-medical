@@ -1,0 +1,10 @@
+{
+  "model": "typhoon-ai/typhoon-isan-asr-whisper",
+  "split": "test",
+  "examples": 491,
+  "cer": 0.07679983724537802,
+  "wer": 0.746606334841629,
+  "runtime_seconds": 1113.3204553127289,
+  "rtf": 0.25026447770295684,
+  "manifest_fingerprint": "2be6ebf9fac2c6b87e327acd5e99c60869224f21ba39bfac3e61b26c1324396d"
+}

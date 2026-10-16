@@ -1,0 +1,11 @@
+{
+  "kind": "wav2vec2",
+  "split": "test",
+  "checkpoint": "D:\\Work\\isan-wav2vec2\\runs\\XD_full\\final",
+  "examples": 491,
+  "cer": 0.09366019886580373,
+  "wer": 0.8125404007756949,
+  "runtime_seconds": 31.07044816017151,
+  "rtf": 0.006984358765435517,
+  "manifest_fingerprint": "2be6ebf9fac2c6b87e327acd5e99c60869224f21ba39bfac3e61b26c1324396d"
+}

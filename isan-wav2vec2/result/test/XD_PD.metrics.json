@@ -1,0 +1,11 @@
+{
+  "kind": "wav2vec2",
+  "split": "test",
+  "checkpoint": "airesearch/wav2vec2-large-xlsr-53-th",
+  "examples": 491,
+  "cer": 0.5385652162856344,
+  "wer": 5.846153846153846,
+  "runtime_seconds": 29.342928409576416,
+  "rtf": 0.006596027781269075,
+  "manifest_fingerprint": "2be6ebf9fac2c6b87e327acd5e99c60869224f21ba39bfac3e61b26c1324396d"
+}
